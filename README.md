@@ -24,6 +24,7 @@ Aplicación web educativa de una sola página (*SPA*) desarrollada con **Vue.js*
 
 - **Contexto:** Aplicación educativa de práctica frontend con operaciones CRUD sobre Firebase Realtime Database.
 - **Estado:** Finalizado (archivado para portafolio).
+- **Configuración de Firebase:** Los endpoints en `recursos/vistas/` y `recursos/componentes/` utilizan la URL de ejemplo `https://tu-proyecto-default-rtdb.firebaseio.com`. Para usar una instancia propia, crea una base de datos en Firebase Realtime Database, sustituye ese dominio por la URL de tu proyecto y define reglas de seguridad adecuadas en Firebase.
 
 ## Autor
 
